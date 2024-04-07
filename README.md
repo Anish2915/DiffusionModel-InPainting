@@ -1,1 +1,1 @@
-# diffusionModel-InPainting
+# DiffusionModel-InPainting
